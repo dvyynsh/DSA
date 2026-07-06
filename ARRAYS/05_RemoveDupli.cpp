@@ -28,9 +28,6 @@ int Brute(int arr[], int n)
 // using two pointer approch
 int Optimal(int arr[], int n)
 {
-    if(n == 0)
-        return 0;
-
     int i = 0;
 
     for(int j = 1; j < n; j++)
