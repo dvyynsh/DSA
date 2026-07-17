@@ -9,3 +9,10 @@ git remote add origin https://github.com/dvyynsh/DSA.git
 git add .
 git commit -m "Initial commit"
 git push -u origin main
+
+// Direct
+git init
+git branch -M main
+git add .
+git commit -m "Initial commit"
+git push -u origin main
