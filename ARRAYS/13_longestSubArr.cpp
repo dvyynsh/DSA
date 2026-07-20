@@ -83,7 +83,9 @@ int longestSubarrayWithSumK(vector<int> a, long long k) {
             maxLen = max(maxLen, right - left + 1);
         }
         right++;
-        if(right < n) sum += a[right];
+        if(right < n){
+            sum += a[right];
+        }
     }
     return maxLen;
 }
