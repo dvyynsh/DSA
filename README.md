@@ -22,6 +22,7 @@ git push -u origin main
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/dvyynsh/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [1929-concatenation-of-array](https://github.com/dvyynsh/DSA/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +39,8 @@ git push -u origin main
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/dvyynsh/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/dvyynsh/DSA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
