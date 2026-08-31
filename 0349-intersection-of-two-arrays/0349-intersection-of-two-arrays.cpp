@@ -13,7 +13,7 @@ public:
         // Traverse nums2
         for (int i = 0; i < nums2.size(); i++) {
              // Check if element exists in the set
-            if (st.find(nums2[i]) != st.end()) {
+            if (st.find(nums2[i]) != st.end()) {        // means if it's not reaches end of list means element found
                 ans.push_back(nums2[i]); 
                 st.erase(nums2[i]);   
             }
