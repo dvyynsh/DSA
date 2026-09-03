@@ -1,3 +1,8 @@
+// Convert the first arr into set to remove duplicacy
+// iterate through second arr and check any matching elements
+// Then push into ans vector and then remove that element from arr2
+
+
 class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
