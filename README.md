@@ -23,6 +23,7 @@ git push -u origin main
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dvyynsh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dvyynsh/DSA/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/dvyynsh/DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/dvyynsh/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/dvyynsh/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1929-concatenation-of-array](https://github.com/dvyynsh/DSA/tree/master/1929-concatenation-of-array) |
@@ -35,6 +36,7 @@ git push -u origin main
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dvyynsh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dvyynsh/DSA/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/dvyynsh/DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/dvyynsh/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/dvyynsh/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -44,6 +46,7 @@ git push -u origin main
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/dvyynsh/DSA/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/dvyynsh/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Simulation
 |  |
