@@ -1,14 +1,24 @@
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
-        vector<int>result;
-        for(int i=0; i<nums.size(); i++){
-            // result[i]=nums[i]*nums[i];  raise an error because 
-            // there is no element in vector result do instead pushback
-            result.push_back(nums[i]*nums[i]);
+        vector<int> result(nums.size());    
+        int left = 0;
+        int right = nums.size()-1;
+        int k = nums.size()-1;      // writting pointer
+       
+        while(left<=right){     // divyansh idea while(k!=-1) also works
+            if (abs(nums[left]) > abs(nums[right])) {
+                result[k]=nums[left]*nums[left];
+                left++;
+            }
+            else {
+                result[k]=nums[right]*nums[right];
+                right--;
+            }
+
+            k--;
         }
-        sort(result.begin(),result.end());
-        return result;  
-    } 
+        return result;
+    }
     
 };
