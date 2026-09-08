@@ -40,6 +40,7 @@ git push -u origin main
 | [0088-merge-sorted-array](https://github.com/dvyynsh/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/dvyynsh/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/dvyynsh/DSA/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/dvyynsh/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/dvyynsh/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/dvyynsh/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -60,4 +61,5 @@ git push -u origin main
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/dvyynsh/DSA/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/dvyynsh/DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
