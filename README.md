@@ -21,6 +21,7 @@ git push -u origin main
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dvyynsh/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dvyynsh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dvyynsh/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/dvyynsh/DSA/tree/master/0088-merge-sorted-array) |
@@ -36,6 +37,7 @@ git push -u origin main
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dvyynsh/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dvyynsh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dvyynsh/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/dvyynsh/DSA/tree/master/0088-merge-sorted-array) |
@@ -65,4 +67,8 @@ git push -u origin main
 | ------- |
 | [0125-valid-palindrome](https://github.com/dvyynsh/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/dvyynsh/DSA/tree/master/0344-reverse-string) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dvyynsh/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
