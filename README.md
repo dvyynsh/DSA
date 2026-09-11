@@ -22,6 +22,7 @@ git push -u origin main
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dvyynsh/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/dvyynsh/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dvyynsh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dvyynsh/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/dvyynsh/DSA/tree/master/0088-merge-sorted-array) |
@@ -38,6 +39,7 @@ git push -u origin main
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dvyynsh/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/dvyynsh/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dvyynsh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dvyynsh/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/dvyynsh/DSA/tree/master/0088-merge-sorted-array) |
@@ -55,6 +57,7 @@ git push -u origin main
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/dvyynsh/DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/dvyynsh/DSA/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/dvyynsh/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/dvyynsh/DSA/tree/master/0977-squares-of-a-sorted-array) |
