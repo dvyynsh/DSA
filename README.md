@@ -70,12 +70,14 @@ git push -u origin main
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/dvyynsh/DSA/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/dvyynsh/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/dvyynsh/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/dvyynsh/DSA/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dvyynsh/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3498-reverse-degree-of-a-string](https://github.com/dvyynsh/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
