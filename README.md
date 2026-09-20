@@ -93,4 +93,12 @@ git push -u origin main
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dvyynsh/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/dvyynsh/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/dvyynsh/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
