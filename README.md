@@ -34,6 +34,7 @@ git push -u origin main
 | [0643-maximum-average-subarray-i](https://github.com/dvyynsh/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/dvyynsh/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/dvyynsh/DSA/tree/master/1929-concatenation-of-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dvyynsh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@ git push -u origin main
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/dvyynsh/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dvyynsh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Geometry
 |  |
 | ------- |
