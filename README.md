@@ -97,10 +97,19 @@ git push -u origin main
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dvyynsh/DSA/tree/master/0002-add-two-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/dvyynsh/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dvyynsh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Geometry
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/dvyynsh/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/dvyynsh/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/dvyynsh/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
