@@ -6,24 +6,15 @@ public:
 
         string ans = "";
 
-        // Take every character of the first string
         for (int i = 0; i < strs[0].length(); i++) {
-
             char ch = strs[0][i];
-
-            // Compare this character with every other string
             for (int j = 1; j < strs.size(); j++) {
-
-                // Edge Case 1: Current string is shorter
-                if (i >= strs[j].length())
-                    return ans;
-
-                // Edge Case 2: Character doesn't match
+                if (i >= strs[j].length())   // range se bahar agar like accessing arr[3] in "ab" string
+                    return ans;             // stop
                 if (strs[j][i] != ch)
-                    return ans;
+                    return ans;             // stop
             }
 
-            // Everyone matched → add character
             ans += ch;
         }
 
