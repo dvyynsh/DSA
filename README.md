@@ -36,12 +36,14 @@ git push -u origin main
 | [0977-squares-of-a-sorted-array](https://github.com/dvyynsh/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/dvyynsh/DSA/tree/master/1929-concatenation-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dvyynsh/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dvyynsh/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dvyynsh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/dvyynsh/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/dvyynsh/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dvyynsh/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,4 +139,12 @@ git push -u origin main
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dvyynsh/DSA/tree/master/0014-longest-common-prefix) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dvyynsh/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dvyynsh/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
