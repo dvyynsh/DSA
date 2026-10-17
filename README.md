@@ -38,12 +38,14 @@ git push -u origin main
 | [2778-sum-of-squares-of-special-elements](https://github.com/dvyynsh/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dvyynsh/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dvyynsh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dvyynsh/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/dvyynsh/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/dvyynsh/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dvyynsh/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dvyynsh/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +73,7 @@ git push -u origin main
 | [0088-merge-sorted-array](https://github.com/dvyynsh/DSA/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/dvyynsh/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/dvyynsh/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dvyynsh/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Simulation
 |  |
 | ------- |
