@@ -109,6 +109,7 @@ git push -u origin main
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dvyynsh/DSA/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/dvyynsh/DSA/tree/master/0007-reverse-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/dvyynsh/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dvyynsh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/dvyynsh/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
