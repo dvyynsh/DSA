@@ -44,6 +44,7 @@ git push -u origin main
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/dvyynsh/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/dvyynsh/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/dvyynsh/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dvyynsh/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dvyynsh/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -73,6 +74,7 @@ git push -u origin main
 | ------- |
 | [0015-3sum](https://github.com/dvyynsh/DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/dvyynsh/DSA/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/dvyynsh/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/dvyynsh/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/dvyynsh/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dvyynsh/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -87,6 +89,7 @@ git push -u origin main
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dvyynsh/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/dvyynsh/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/dvyynsh/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dvyynsh/DSA/tree/master/0344-reverse-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dvyynsh/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dvyynsh/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
