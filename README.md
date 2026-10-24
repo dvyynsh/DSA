@@ -94,6 +94,7 @@ git push -u origin main
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dvyynsh/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dvyynsh/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dvyynsh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/dvyynsh/DSA/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/dvyynsh/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
@@ -117,6 +118,7 @@ git push -u origin main
 | [0002-add-two-numbers](https://github.com/dvyynsh/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/dvyynsh/DSA/tree/master/0007-reverse-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/dvyynsh/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2409-count-days-spent-together](https://github.com/dvyynsh/DSA/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dvyynsh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/dvyynsh/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Geometry
