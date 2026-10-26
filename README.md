@@ -40,6 +40,7 @@ git push -u origin main
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dvyynsh/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dvyynsh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dvyynsh/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dvyynsh/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,4 +160,20 @@ git push -u origin main
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dvyynsh/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dvyynsh/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dvyynsh/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dvyynsh/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Matrix
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dvyynsh/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
