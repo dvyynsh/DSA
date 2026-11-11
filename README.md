@@ -34,6 +34,7 @@ git push -u origin main
 | [0349-intersection-of-two-arrays](https://github.com/dvyynsh/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/dvyynsh/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/dvyynsh/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1920-build-array-from-permutation](https://github.com/dvyynsh/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/dvyynsh/DSA/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dvyynsh/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dvyynsh/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -83,6 +84,7 @@ git push -u origin main
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/dvyynsh/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/dvyynsh/DSA/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/dvyynsh/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## String
