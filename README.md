@@ -47,6 +47,7 @@ git push -u origin main
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dvyynsh/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/dvyynsh/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/dvyynsh/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/dvyynsh/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -92,6 +93,7 @@ git push -u origin main
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dvyynsh/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/dvyynsh/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/dvyynsh/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/dvyynsh/DSA/tree/master/0242-valid-anagram) |
@@ -109,6 +111,7 @@ git push -u origin main
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dvyynsh/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/dvyynsh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/dvyynsh/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/dvyynsh/DSA/tree/master/0643-maximum-average-subarray-i) |
