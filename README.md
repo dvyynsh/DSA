@@ -21,6 +21,7 @@ git push -u origin main
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/dvyynsh/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/dvyynsh/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/dvyynsh/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/dvyynsh/DSA/tree/master/0015-3sum) |
@@ -70,6 +71,7 @@ git push -u origin main
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/dvyynsh/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dvyynsh/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/dvyynsh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/dvyynsh/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -186,4 +188,8 @@ git push -u origin main
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dvyynsh/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/dvyynsh/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
