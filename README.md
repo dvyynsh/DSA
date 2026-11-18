@@ -102,6 +102,7 @@ git push -u origin main
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dvyynsh/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dvyynsh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2409-count-days-spent-together](https://github.com/dvyynsh/DSA/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/dvyynsh/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/dvyynsh/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
