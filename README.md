@@ -35,6 +35,7 @@ git push -u origin main
 | [0283-move-zeroes](https://github.com/dvyynsh/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/dvyynsh/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/dvyynsh/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/dvyynsh/DSA/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/dvyynsh/DSA/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/dvyynsh/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dvyynsh/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -180,21 +181,25 @@ git push -u origin main
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/dvyynsh/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/dvyynsh/DSA/tree/master/0695-max-area-of-island) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dvyynsh/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/dvyynsh/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/dvyynsh/DSA/tree/master/0695-max-area-of-island) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dvyynsh/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/dvyynsh/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/dvyynsh/DSA/tree/master/0695-max-area-of-island) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dvyynsh/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/dvyynsh/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/dvyynsh/DSA/tree/master/0695-max-area-of-island) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dvyynsh/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Divide and Conquer
 |  |
